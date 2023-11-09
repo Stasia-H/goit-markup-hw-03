@@ -59,6 +59,7 @@ img {
 
 
 /* ------------------- HEADER  ------------------ */
+
 .page-header {
     border-bottom: 1px solid #e7e9fc;
   
@@ -85,6 +86,7 @@ img {
 
 
 /* ----- LOGO STYLE ---- */
+
 .logo-web {    
     color: var(--IRIS, #4D5AE5);
     font-family: Raleway;
@@ -103,6 +105,7 @@ img {
 
 
 /*----- NAVIGATION ----- */
+
 .navigation {
     margin-top: 24px;
 }
@@ -134,6 +137,7 @@ img {
 
 
 /* ----- ADDRESS ------ */
+
 .address {
     font-style: normal;
 }
@@ -164,6 +168,7 @@ img {
 
 
 /* ----------- HERO SECTION ---------- */
+
 .hero-section {
     background: #2E2F42;
     padding-top: 188px;
@@ -225,6 +230,7 @@ img {
 
 
 /* ------------- BENEFITS SECTION ---------- */
+
 .benefits-section {
     background: #FFFFFF;
     padding: 120px 0;
@@ -267,6 +273,7 @@ img {
 
 
 /* ------------- TEAM SECTION ------------ */
+
 .team-section {
     background-color: #F4F4FD;
     padding: 120px 0;
@@ -340,6 +347,7 @@ img {
 
 
 /* ----------- PORTFOLIO SECTION ---------- */
+
 .portfolio-section {
     background-color: #FFFFFF;
     padding: 120px 0 120px 0;
@@ -403,6 +411,7 @@ img {
 
 
 /* -------------- FOOTER SECTION ------------ */
+
 .footer-section {
     background-color: #2E2F42;
     padding-top: 100px;
